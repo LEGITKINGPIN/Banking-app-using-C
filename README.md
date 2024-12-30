@@ -1,4 +1,4 @@
-# City Bank App
+# Banking App
 
 This is a console-based banking application that allows users to register, log in, manage their accounts, transfer funds, view transaction history, and more. The application is implemented in C and uses file I/O for storing account and transaction data.
 
