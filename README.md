@@ -66,7 +66,7 @@ This is a console-based banking application that allows users to register, log i
 
 To compile the application, run the following command:
 ```bash
-gcc -o city_bank main.c
+gcc -o city_bank CITY_BANK.c
 ```
 
 ### Running the Application
